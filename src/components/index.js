@@ -5,3 +5,4 @@ export {default as Model} from './Model.jsx';
 export {default as ModelView} from './ModelView.jsx';
 export { default as Features } from './Features.jsx';
 export { default as HowItWorks } from './HowItWorks.jsx';
+export { default as Footer } from  './Footer';
