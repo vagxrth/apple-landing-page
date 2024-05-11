@@ -25,3 +25,7 @@ It is a clone of the landing page of the Apple's iPhone 15 Pro Official Website.
 
 ## Video
 
+
+
+https://github.com/vagxrth/iphone15pro-landing-page/assets/83217083/c76620a8-fb80-480a-a9cc-d99aef9810ea
+
