@@ -3,13 +3,10 @@ iPhone 15 Pro Landing Page
 
 
 ## Introduction
-It is a clone of the landing page of the Apple's iPhone 15 Pro Official Website. 
+It is a clone of the landing page of Apple's iPhone 15 Pro Official Website. 
 
 
 ## Tech Stack
-- HTML
-- CSS
-- JavaScript
 - React
 - TailwindCSS
 - Vite
